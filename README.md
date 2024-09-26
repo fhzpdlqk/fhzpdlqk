@@ -15,4 +15,3 @@ https://github.com/infinity-stone-design/
 
 ## 정보올림피아드 비버챌린지 연습 사이트
 https://github.com/fhzpdlqk/beaber
-현재 배포중인 사이트 : http://davinci-coding.s3-website.ap-northeast-2.amazonaws.com/
